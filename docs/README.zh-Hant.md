@@ -1,6 +1,7 @@
 # 🪙 Trustoken Daily
 
-[简体中文](../README.md) · [English](README.en.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+[简体中文](../README.md) · [English](README.en.md) · **繁體中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+> 版本：**v1.0.0**（2026-11-24）
 
 多帳號 Trustoken 每日簽到與每日任務領取，單檔 Python。
 
