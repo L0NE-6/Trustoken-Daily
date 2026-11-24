@@ -1,0 +1,10 @@
+.env
+*.log
+trustoken_results.jsonl
+trustoken_state.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+tmp/
+.probe/
